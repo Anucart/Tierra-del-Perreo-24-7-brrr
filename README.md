@@ -1,28 +1,33 @@
-*SERVER TIERRA DEL PERREO 24/7 BRRRR*
+# Tierra del Perreo 27/7 BRRRR
 
-PARA PODER ENTRAR AL SERVER VAN A NECESITAR LO SIGUIENTE:
+Para descargar este repositorio, hacer click en el boton verde que dice **Code** y elegir **Download ZIP**
+Para poder entrar al server van a necesitar lo siguiente:
 
--FORGE 1.16.5-
+## Java
+- https://www.java.com/es/download/ie_manual.jsp
 
-- INSTALAR FORGE VERSION 1.16.5-36.2.0-INSTALLER (VAS A NECESITAR JAVA PARA PODER INSTALARLO)
-*LINK DE DESCARGA DE JAVA: https://www.java.com/es/download/ie_manual.jsp
-- UNA VEZ INSTALADO JAVA, DAR CLICK DERECHO AL ARCHIVO DE FORGE Y LE DAS ABRIR CON -> JAVA (TM)
-- TE VAN A SALIR TRES OPCIONES DE INSTALACIÓN: INSTALL CLIENT, INSTALL SERVER Y EXTRACT. DAR CLICK EN INSTALL CLIENT Y OK.
-(NO CAMBIEN LA DIRECCIÓN DE INSTALACIÓN)
-- UNA VEZ INSTALADO FORGE, PARA SABER QUE TODO ESTÁ OK, ENTREN AL LAUNCHER DE MINECRAFT. A LA IZQUIERDA DEL
-BOTON VERDE QUE DICE "JUGAR" DEBERÍA DE APARECER FORGE CON LA VERSIÓN 1.16.5.
+## Forge 1.16.5
 
--MODS PARA EL SERVIDOR-
+- Ejecutar el instalador contenido en el comprimido
+	> forge-1.16.5-36.2.0-installer.jar
+-   Te van a salir tres opciones de instalacion: Install Client, Install Server y Extract. Dar click en **Install Client** y Ok (No cambiar la direccion de instalacion)
+- Para comprobar que la instalacion fue exitosa, entren al launcher de Minecraft, a la izquierda del boton verde que dice **Jugar** deberia aparecer **Forge v1.16.5**
 
-- UNA VEZ DESCARGADO LOS MODS QUE ESTÁN EN EL DRIVE, LOS VAMOS A EXTRAER EN LA SIGUIENTE DIRECCIÓN:
-C:\Users\users\AppData\Roaming\.minecraft\mods
-*SI NO ENCUENTRAS LA DIRECCIÓN, UNA OPCIÓN ES INGRESAR LO SIGUIENTE EN EL BUSCADOR DE WINDOWS: %APPDATA%
-UNA VEZ DENTRO DE LA CARPETA DE APPDATA, DOBLE CLICK EN LA CARPETA DE .minecraft
-(EN CASO DE NO TENER LA CARPETA DE MODS, TENEMOS QUE CREARLA CON EL NOMBRE TODO EN MINÚSCULAS (EJEMPLO: mods))
-UNA VEZ CREADA LA CARPETA TENEMOS QUE PEGAR TODOS LOS MODS DENTRO DE LA MISMA.
+## Mods para el servidor
 
-IP DEL SERVIDOR: 45.35.183.226:25574
+En la carpeta **mods** contenida en el comprimido:
 
-ESPERO QUE DISFRUTEN DEL SERVIDOR QUE CON MUCHO CARIÑO LO HICE :')
+- Copiar todo el contenido de esta carpeta a:
+	> C:\Users\users\AppData\Roaming\.minecraft\mods
 
-*SI TIENEN ALGUNA DUDA INSTALANDO LOS MODS (PORQUE SOY UN MIERDAS EXPLICANDO) O SIMPLEMENTE NO PUENDEN ENTRAR AL SERVER, ME ESCRIBEN*
+Si no encuentras la direccion, puedes intentar lo siguiente:
+
+- En el buscador de Windows escribir  **%APPDATA%** y luego navegar al directorio **.minecraft**
+- Si la carpeta mods no existe, debes crearla con el nombre todo en minusculas (**mods**)
+
+## IP DEL SERVIDOR: 
+> 45.35.183.226:25574
+
+***ESPERO QUE DISFRUTEN DEL SERVIDOR QUE CON MUCHO CARIÑO LO HICE :')***
+
+Si tienen alguna duda instalando los mods o no pueden entrar al server, contactar a Eshu!
