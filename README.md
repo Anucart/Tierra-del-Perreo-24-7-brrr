@@ -15,9 +15,9 @@ Para poder entrar al server van a necesitar lo siguiente:
 
 ## Mods para el servidor
 
-En la carpeta **mods** contenida en el comprimido:
+Ejecutar **.exe** y esperar que termine. Si tiene exito, continuar con el siguiente punto. En caso de que falle, puedes intentar lo siguiente:
 
-- Copiar todo el contenido de esta carpeta a:
+- En la carpeta **mods** contenida en el comprimido copiar todo el contenido de esta carpeta a:
 	> C:\Users\users\AppData\Roaming\.minecraft\mods
 
 Si no encuentras la direccion, puedes intentar lo siguiente:
