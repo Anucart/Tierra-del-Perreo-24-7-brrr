@@ -15,15 +15,22 @@ Para poder entrar al server van a necesitar lo siguiente:
 
 ## Mods para el servidor
 
-En la carpeta **mods** contenida en el comprimido:
+Ejecutar **mods-installer-1.0.0 Setup.exe** y esperar que desaparezca la pequeña pantalla de instalacion y se reinicie el app. Luego dar click en **Instalar / Actualizar**. Si tiene exito, continuar con el siguiente punto. En caso de que falle, puedes intentar lo siguiente:
 
-- Copiar todo el contenido de esta carpeta a:
+- En la carpeta **mods** contenida en el comprimido copiar todo el contenido de esta carpeta a:
 	> C:\Users\users\AppData\Roaming\.minecraft\mods
 
 Si no encuentras la direccion, puedes intentar lo siguiente:
 
 - En el buscador de Windows escribir  **%APPDATA%** y luego navegar al directorio **.minecraft**
 - Si la carpeta mods no existe, debes crearla con el nombre todo en minusculas (**mods**)
+
+## Shaderpacks
+
+- En la carpeta **shaderpacks** contenida en el comprimido copiar todo el contenido de esta carpeta (sin descomprimir) a:
+	> C:\Users\users\AppData\Roaming\.minecraft\shaderpacks
+
+- Si la carpeta mods no existe, debes crearla con el nombre todo en minusculas (**shaderpacks**)
 
 ## IP DEL SERVIDOR: 
 > 45.35.183.226:25574
